@@ -1,3 +1,4 @@
+## deploy link: https://huggingface.co/spaces/Mayankojhaa/AI_Multi_lang_translation_web
 ---
 title: AI Translator
 sdk: streamlit
